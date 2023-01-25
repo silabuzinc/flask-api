@@ -1,0 +1,1 @@
+users = [{"name": "Marcelo", "password": "some password"}]

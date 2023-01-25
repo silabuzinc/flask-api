@@ -1,0 +1,6 @@
+Flask
+Flask-Seeder
+SQLAlchemy
+psycopg2
+Flask-Migrate
+Flask-WTF
